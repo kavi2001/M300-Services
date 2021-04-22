@@ -16,6 +16,6 @@
  
  #### Github kennengelernt
  
- Wir mussten zuerst ein Konto in Github erstellen, diesen verwenden wir als einen Cloudspeicher für die Dokumente.
+ Wir mussten zuerst ein Konto in Github erstellen, diesen verwenden wir als einen Cloudspeicher für die Dokumente. Die Erstellung der Repository ist nach der Anleitung erfolgt.
  
  
